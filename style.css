@@ -177,7 +177,6 @@ label {
   padding-left: 1rem;
 }
 
-
 .card-separator {
   height: 6rem;
 }
@@ -415,6 +414,7 @@ hr {
   margin-bottom: 1rem;
   width: 20rem;
 }
+
 /* mobile view */
 @media only screen and (min-width: 600px) {
   .nav-container {
@@ -489,9 +489,9 @@ hr {
     width: 70%;
   }
 
-  /* profile section ends here*/
+  /* profile section ends here */
 
-  /*work section start here */
+  /* work section start here */
   .work-container {
     display: flex;
     max-width: 80%;
@@ -518,7 +518,8 @@ hr {
     width: 100%;
     padding: 1rem;
   }
-  .project-card-container{
+
+  .project-card-container {
     flex: 1;
   }
 
@@ -629,7 +630,8 @@ hr {
     margin-left: 2rem;
     gap: 1rem;
   }
-  /*about me start here  */
+
+  /* about me start here  */
   .intro-about-me {
     display: flex;
     gap: 2rem;
@@ -717,7 +719,7 @@ hr {
     display: flex;
     gap: 1rem;
   }
-  
+
   .language-snippets-desktop {
     display: flex;
     flex-direction: column;
@@ -730,4 +732,3 @@ hr {
     border-radius: 8px;
   }
 }
-
