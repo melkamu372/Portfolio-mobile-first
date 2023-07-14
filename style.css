@@ -181,6 +181,17 @@ label {
   height: 6rem;
 }
 
+.main-workContainer {
+  background-color: #f5f5f5;
+  margin: 50px 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  top: 718px;
+  padding: 1em;
+  gap: 88px;
+}
+
 .work-container {
   display: grid;
   grid-template-columns: auto;
