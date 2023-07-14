@@ -360,7 +360,6 @@ button :disabled {
 .primary-text-about {
   font-family: 'Poppins', Arial, Helvetica, sans-serif;
   font-weight: 700;
-  font-size: 3rem;
   color: #172b4d;
   margin-top: -1rem;
   width: 11rem;
@@ -395,7 +394,6 @@ button :disabled {
   display: flex;
   width: 20rem;
   align-items: center;
-  height: 5rem;
   margin-top: 1rem;
   background: #f7f7f9;
   border-radius: 8px;
@@ -659,7 +657,6 @@ hr {
   .primary-text-about {
     font-family: 'Poppins', Arial, Helvetica, sans-serif;
     font-weight: 700;
-    font-size: 3rem;
     color: #172b4d;
     margin-top: -1rem;
     width: 11rem;
@@ -726,7 +723,6 @@ hr {
     width: 8rem;
     align-items: flex-start;
     padding-right: 2rem;
-    height: 6rem;
     padding-top: 0.4rem;
     background: #f7f7f9;
     border-radius: 8px;
