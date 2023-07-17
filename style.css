@@ -739,3 +739,38 @@ hr {
     border-radius: 8px;
   }
 }
+
+.contact {
+  background-color: #ffff;
+  padding-top: 80px;
+}
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #5564EB;
+  min-height: 779px;
+  border-top-left-radius: 150px;
+  object-fit: cover;
+}
+.contact-container h2 {
+  padding-top: 103px;
+  color: #ffff;
+  text-align: center;
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+}
+.contact-P {
+  padding-top: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #ffff;
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+}
