@@ -745,6 +745,7 @@ hr {
   padding-top: 80px;
 }
 .contact-container {
+  background: url('./assets/contact/contact-form-mobile.svg') 100% 21px no-repeat;
   display: flex;
   flex-direction: column;
   background-color: #5564EB;
