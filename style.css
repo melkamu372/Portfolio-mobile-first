@@ -753,7 +753,7 @@ hr {
   flex-direction: column;
   background-color: #5564eb;
   min-height: 779px;
-  border-top-left-radius: 150px;
+  border-top-left-radius: 100px;
   object-fit: cover;
 }
 
