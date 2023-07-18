@@ -811,3 +811,23 @@ textarea {
   line-height: 20px;
   outline: none;
 }
+.getInTouch {
+  margin-top: 1rem;
+  margin-left: 1.5rem;
+  background-color: #fff;
+  border: 2px solid #5564EB;
+  border-radius: 8px;
+  color: #5564EB;
+  padding: 1rem;
+  width: 10rem;
+  text-align: center;
+  justify-content: center;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+}
+.home-indicator{
+  text-align: center;
+  justify-content: center;
+}
