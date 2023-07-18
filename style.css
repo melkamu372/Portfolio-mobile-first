@@ -769,6 +769,8 @@ hr {
 }
 
 .contact-P {
+  margin-left: 2rem;
+  margin-right: 1rem;
   padding-top: 12px;
   padding-left: 10px;
   padding-right: 10px;
@@ -782,13 +784,12 @@ hr {
 }
 
 .contact-form {
-  margin-top: 2rem;
+  margin: 2rem;
   height: 100%;
 }
 
 .form-section {
   display: flex;
-  align-items: center;
   flex-direction: column;
   gap: 1rem;
 }
@@ -823,7 +824,6 @@ textarea {
 
 .getInTouch {
   margin-top: 1rem;
-  margin-left: 2rem;
   background-color: #fff;
   border: 2px solid #5564eb;
   border-radius: 8px;
