@@ -823,7 +823,7 @@ textarea {
 
 .getInTouch {
   margin-top: 1rem;
-  margin-left: 1.5rem;
+  margin-left: 2rem;
   background-color: #fff;
   border: 2px solid #5564eb;
   border-radius: 8px;
@@ -839,6 +839,7 @@ textarea {
 }
 
 .home-indicator {
+  margin-top: 1rem;
   text-align: center;
   justify-content: center;
 }
