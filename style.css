@@ -517,14 +517,13 @@ textarea {
   }
 
   .intro {
-    width: 100%;
-    margin: 0 auto;
+    margin: 0;
     max-width: 100%;
     padding: 1.45rem 1.0875rem;
     background: url('./assets/images/desktop-bg.svg') 0 50px no-repeat;
     background-size: 100% auto;
-    min-height: 700px;
-    background-color: white;
+    min-height: 846px;
+    background-color: #fff;
     border-bottom-left-radius: 70px;
   }
 
