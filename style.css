@@ -65,7 +65,6 @@ label {
   background-color: #6070ff;
 }
 
-
 .intro {
   margin: 0;
   max-width: 30.5rem;
@@ -476,7 +475,6 @@ textarea {
   justify-content: center;
 }
 
-
 @media screen and (min-width: 330px) and (max-width: 599px) {
   .hamburger {
     display: block;
@@ -530,12 +528,10 @@ textarea {
     font-size: 1.7rem;
     font-weight: bolder;
   }
-} 
-
-
+}
 
 /* mobile view for humberger and navigation */
- @media only screen and (min-width: 600px) {
+@media only screen and (min-width: 600px) {
   .nav-container {
     display: flex;
     flex-direction: row;
@@ -607,7 +603,6 @@ textarea {
     margin-top: 1rem;
     width: 70%;
   }
-
 
   .work-container {
     display: flex;
@@ -746,7 +741,6 @@ textarea {
     gap: 1rem;
   }
 
-
   .intro-about-me {
     display: flex;
     gap: 2rem;
@@ -844,11 +838,7 @@ textarea {
     background: #f7f7f9;
     border-radius: 8px;
   }
-} 
 
-
-
-@media only screen and (min-width: 600px) {
   .contact {
     background-color: #ffff;
     padding-top: 80px;
@@ -866,10 +856,12 @@ textarea {
     object-fit: cover;
     outline: none;
   }
+
   .contact-P-desktop {
     width: 45rem;
     text-align: center;
   }
+
   .input-desktop {
     width: 30rem;
   }
@@ -885,4 +877,4 @@ textarea {
   .home-indicator {
     display: none;
   }
-} 
+}
