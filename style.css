@@ -812,6 +812,7 @@ textarea {
     border-top-left-radius: 70px;
     object-fit: cover;
   }
+
   .contact-container-desktop {
     display: flex;
     flex-direction: column;
@@ -819,6 +820,7 @@ textarea {
     justify-content: center;
     width: 100%;
   }
+
   .contact-P-desktop {
     width: 35rem;
     text-align: center;
@@ -836,8 +838,8 @@ textarea {
     gap: 1rem;
   }
 
-.input-desktop {
-   width: 30rem;
+  .input-desktop {
+    width: 30rem;
   }
 
   .getInTouch-desktop {
