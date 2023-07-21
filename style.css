@@ -866,5 +866,13 @@ textarea {
 }
 
 @keyframes my-animation {
-  
+  0% {
+    background-color: green;
+  }
+  50% {
+    background-color: yellow;
+  }
+  100% {
+    background-color: red;
+  }
 }
