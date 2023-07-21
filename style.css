@@ -59,6 +59,7 @@ label {
   margin-top: 1rem;
   letter-spacing: 0;
   text-align: center;
+  animation: my-animation 5s linear infinite;
 }
 
 .hamburger {
@@ -862,4 +863,8 @@ textarea {
   .home-indicator {
     display: none;
   }
+}
+
+@keyframes my-animation {
+  
 }
