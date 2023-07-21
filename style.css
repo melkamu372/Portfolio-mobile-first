@@ -57,6 +57,16 @@ label {
   line-height: 20px;
   color: #5564eb;
   margin-top: 1rem;
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.hamburger {
+  display: block;
+  cursor: pointer;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
 }
 
 .bar {
