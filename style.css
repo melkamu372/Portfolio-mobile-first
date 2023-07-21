@@ -64,9 +64,8 @@ label {
 .hamburger {
   display: block;
   cursor: pointer;
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
+  margin-top: 1rem;
+  margin-right: 1rem;
 }
 
 .bar {
