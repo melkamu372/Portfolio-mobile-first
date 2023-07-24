@@ -85,7 +85,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-https://github.com/melkamu372/My-Portfolio.git
+https://github.com/melkamu372/Portfolio-mobile-first.git
 
 cd your folder name
 ```
@@ -171,8 +171,6 @@ If you like this project give me a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank every who continues supporting me.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
