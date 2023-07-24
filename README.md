@@ -10,7 +10,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  - [👁 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -26,11 +26,11 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# Hello Microverse project <a name="about-project"></a>
+ #   🎯 Portfolio Microverse project <a name="about-project"></a>
 
-**Hello Microverse** is a HTML project that display a My Portfolio mobile first project.
+**A portfolio** is one of the most powerful tools in the software developer toolbox; it’s the easiest way of showing what someone is truly capable of as a developer, and is a quick and simple way for recruiters and hiring managers to get an idea of what someone can bring to their teams. In this project, I have precisely replicate one of the portfolio templates Microverse is providing for me!
 
-## 🛠 Built With <a name="built-with"></a>
+## 💻 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -62,9 +62,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 👁 Live Demo <a name="live-demo"></a>
 
-- [Demo link is coming soon](#)
+- [Live Demo Link](https://melkamu372.github.io/Portfolio-mobile-first/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,16 +135,22 @@ Deploy this project on any websever
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 ** @melkamu Tessema **
+  **Melkamu Tessema** 
 
-- GitHub: [@githubhandle] https://github.com/melkamu372
-- LinkedIn: [LinkedIn] https://www.linkedin.com/in/melkamu372/
+<div align="">
+<a href="https://github.com/https://github.com/melkamu372" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/melkamu372/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add a hello animated illustration**
+- [ ] **Add a Javascript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
