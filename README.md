@@ -1,13 +1,13 @@
 <a name="readme-top"></a>
 
 <div align="center">
-# <h1> Portfolio mobile first project </h1>
+ <h1> 🎯  Portfolio mobile first</h1>
 </div>
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+  - [💻  Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [👁 Live Demo](#live-demo)
