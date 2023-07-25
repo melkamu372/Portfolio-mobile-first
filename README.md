@@ -127,9 +127,15 @@ N/A
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: Deploy this project on a github follow these step
 
-Deploy this project on any websever
+1. Go to the GitHub repository for the website you want to deploy.
+2. Click on the Settings tab.
+3. In the Code and automation section, click on the Pages tab.
+4. Under Source, select Deploy from a branch.
+5. In the Branch dropdown menu, select the branch that contains the website files.
+6. Click on the Save button.
+9 Once the changes have been saved, your website will be deployed to GitHub Page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
