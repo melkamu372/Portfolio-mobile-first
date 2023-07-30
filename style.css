@@ -64,14 +64,13 @@ label {
 
 @keyframes slidein {
   from {
-    margin-left: 10%;
-    width: 300%;
+    font-size: 150%;
+    margin-left: 3%;
   }
 
   75% {
-    font-size: 100%;
-    margin-left: 10%;
-    width: 100%;
+    font-size: 200%;
+    margin-left: 5%;
   }
 
   to {
