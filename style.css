@@ -58,24 +58,15 @@ label {
   margin-top: 1rem;
   letter-spacing: 0;
   text-align: center;
-  animation-duration: 1s;
+  animation-duration: 5s;
   animation-name: slidein;
 }
 
 @keyframes slidein {
   from {
-    font-size: 150%;
-    margin-left: 3%;
-  }
-
-  75% {
-    font-size: 200%;
     margin-left: 5%;
-  }
-
-  to {
-    margin-left: 0%;
-    width: 100%;
+    font-size: 200%;
+    color: #000;
   }
 }
 
