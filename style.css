@@ -58,7 +58,26 @@ label {
   margin-top: 1rem;
   letter-spacing: 0;
   text-align: center;
-  animation: my-animation 5s linear infinite;
+  animation-duration: 1s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 10%;
+    width: 300%;
+  }
+
+  75% {
+    font-size: 100%;
+    margin-left: 10%;
+    width: 100%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
 }
 
 .hamburger {
