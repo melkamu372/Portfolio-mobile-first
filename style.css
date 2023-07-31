@@ -540,11 +540,12 @@ textarea {
   .nav-container {
     display: flex;  
     flex-direction: row;
+    margin: 1rem 1rem 10rem 10rem;
     /* justify-content: space-around; */
      /* align-items: flex-start; */
-    width: 100%;
+    /* width: 100%;
     top: 1rem;
-    gap: 10rem;
+    gap: 10rem; */
   }
   .hamburger, .close {
     display: none;
@@ -552,37 +553,30 @@ textarea {
 
    .nav-menu {
     display: flex;
-    margin: 1rem 60rem 0rem 1.5rem ;
-    padding-top: 0rem;  
-    /* position: fixed;
-    right: 100%;
-    top:1px;  */
+    margin-right: 40rem  ;
+    /* padding-top: 0rem;     */
     flex-direction: row;
     width: 100%; 
-    background-color:#fff;
+    background-color:#fff; 
     text-align: left;
     height:20px;
-  
   } 
   .nav-item {
     margin-top: 1rem;
-    margin-left: 2rem;
-    padding-left: 0rem;
-    width: 200px;
+    margin-left: 0rem;
+    padding-left:0rem;
+    width: 150px;
   }
-  .nav-link {
-    color: #fff;
-    font-weight: 700;
-    font-size: 18px;
-  }
+  
  .nav-menu.open {
   display: flex;
 }
-  .nav-link {
-    color: #344563;
-    width: 10rem;
-  }
-
+ 
+.nav-link {
+  color: #344563;
+  font-weight: 700;
+  font-size: 18px;
+}
   .nav-link:hover {
     color: #2230d2;
   }
