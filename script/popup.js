@@ -191,7 +191,7 @@ const displayPopup = (data) => {
             </div>
             <div class="modal-footer">
   
-              <div class="modal-text footer-1">${data.para}<p><br>${data.para}</p></div>
+              <div class="modal-text footer-1">${data.para}<p class="desktop-par2"><br>${data.para}</p></div>
               <div class="footer-2">
                 <ul class="modal-technology">
                   <li class="tech">
@@ -208,12 +208,12 @@ const displayPopup = (data) => {
   
                 <div class="modal-button">
                   <a href="${data.live}" class="modal-link">
-                    <p>See Live</p> &nbsp;&nbsp;
+                    <p>See Live</p> 
                     <img src="./assets/icons/live.svg"  alt="icons">
                   </a>
   
                   <a href="${data.source}" class="modal-link">
-                    <p>See Source</p>&nbsp;&nbsp;
+                    <p>See Source</p>
                     <img src="./assets/icons/source.svg" alt="icons">
                   </a>
                 </div>
