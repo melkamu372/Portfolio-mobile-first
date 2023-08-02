@@ -8,7 +8,7 @@ const projectDatas = [
     class: 'work-container',
     para1:
       'A daily selection of privately personalized reads; no accounts or sign-ups required.',
-    para: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent",
+    para: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,  it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent",
     para2:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum han printer took a galley of type and scrambled it 1960s with the releawn printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea",
     tech: ['html', 'css', 'javascript'],
@@ -191,8 +191,7 @@ const displayPopup = (data) => {
             </div>
             <div class="modal-footer">
   
-  
-              <div class="modal-text footer-1">${data.para}</div>
+              <div class="modal-text footer-1">${data.para}<p><br>${data.para}</p></div>
               <div class="footer-2">
                 <ul class="modal-technology">
                   <li class="tech">
@@ -209,12 +208,12 @@ const displayPopup = (data) => {
   
                 <div class="modal-button">
                   <a href="${data.live}" class="modal-link">
-                    <p>See Live</p>
-                    <img src="./assets/icons/live.svg" alt="icons">
+                    <p>See Live</p> &nbsp;&nbsp;
+                    <img src="./assets/icons/live.svg"  alt="icons">
                   </a>
   
                   <a href="${data.source}" class="modal-link">
-                    <p>See Source</p>
+                    <p>See Source</p>&nbsp;&nbsp;
                     <img src="./assets/icons/source.svg" alt="icons">
                   </a>
                 </div>
