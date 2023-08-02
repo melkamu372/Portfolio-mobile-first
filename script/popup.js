@@ -75,6 +75,7 @@ const projectDatas = [
 document.querySelector('.card').innerHTML = projectDatas
   .map(
     (data) => `
+    <div class="card-separator"></div>
     <section class="${data.class}" id="portfolio">
         <div class="project-img card-card-section-1">
           <img class='image-mobile' src="${data.imageMob}" alt="work background">
@@ -184,9 +185,9 @@ const displayPopup = (data) => {
               </li>
               <li>${data.canopy[2]}</li>
             </ul>
-            <div>
-              <img class="modal-img modal-img-MO" src="${data.imageMob}" alt="project images">
-              <img class="modal-img modal-img-DK" src="${data.imageDesk}" alt="project images">
+            <div class="modal-img">
+              <img class="modal-img-MO" src="${data.imageMob}" alt="project images">
+              <img class="modal-img-DK" src="${data.imageDesk}" alt="project images">
             </div>
             <div class="modal-footer">
   
