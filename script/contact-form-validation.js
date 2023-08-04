@@ -18,3 +18,28 @@ contactForm.addEventListener('submit', (e) => {
     contactForm.submit();
   }
 });
+
+// code for local storage
+const form = document.querySelector('.contact-form');
+const formData = {
+  name: document.querySelector('.contact-name').value,
+  email: document.querySelector('.contact-email').value,
+  message: document.querySelector('.contact-message').value,
+};
+
+let getFormData = window.localStorage.getItem('formData');
+if (getFormData) {
+  getFormData = JSON.parse(getFormData);
+  document.querySelector('.contact-name').value = getFormData.name;
+  document.querySelector('.contact-email').value = getFormData.email;
+  document.querySelector('.contact-message').value = getFormData.message;
+}
+
+Array.from(form).forEach((element) => {
+  element.addEventListener('input', () => {
+    formData.name = document.querySelector('.contact-name').value;
+    formData.email = document.querySelector('.contact-email').value;
+    formData.message = document.querySelector('.contact-message').value;
+    localStorage.setItem('formData', JSON.stringify(formData));
+  });
+});
