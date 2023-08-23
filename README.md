@@ -4,6 +4,9 @@
  <h1> 🎯  Portfolio mobile first</h1>
 </div>
 
+![image](https://github.com/melkamu372/Portfolio-mobile-first/assets/47281626/81897b30-8268-4692-ad86-d5d04884dcd6)
+
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
